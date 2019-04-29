@@ -1,24 +1,21 @@
-# README
+# bootstrap-alert-sandbox
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Sample app for https://qiita.com/Hiro710/items/a3ddf121e613e3f9a7a7
 
-Things you may want to cover:
+<img width="499" alt="Screen Shot 2019-04-30 at 8 17 51" src="https://user-images.githubusercontent.com/1148320/56932894-8a01a580-6b20-11e9-8db4-683c629574f2.png">
 
-* Ruby version
+## Setup
 
-* System dependencies
+``` 
+bundle install
+```
 
-* Configuration
+## Run tests
 
-* Database creation
+``` 
+bundle exec rspec
+```
 
-* Database initialization
+## License
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+MIT License.
